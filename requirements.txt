@@ -1,0 +1,12 @@
+streamlit==1.29.0
+langchain==0.1.0
+langchain-openai==0.0.5
+openai==1.3.0
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+pandas==2.0.3
+numpy==1.24.3
+tiktoken==0.5.2
+scikit-learn==1.3.2
+pyngrok
+pip install openai chromadb streamlit pandas numpy sentence-transformers
